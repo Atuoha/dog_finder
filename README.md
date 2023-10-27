@@ -52,17 +52,17 @@ Requires access to the physical device and sometimes additional setup.
 
 # APK
 Android APK Download Link
-![DogFinder APK](https://atuoha.github.io/project-assets.github.io/)
+https://atuoha.github.io/project-assets.github.io/
 
 # Media
 Images
 ![DogFinder Images](https://imgur.com/a/mqzL68a)
 
 Screenshots
-![DogFinder Images](https://github.com/Atuoha/dog_finder/screenshots)
+https://github.com/Atuoha/dog_finder/screenshots
 
 Video Clip
-![DogFinder Video Clip](https://clipchamp.com/watch/GvA2HteZrHB)
+https://clipchamp.com/watch/GvA2HteZrHB
 
 
 
