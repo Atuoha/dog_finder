@@ -49,7 +49,19 @@ Testing on a real device provides the most accurate results.
 Ideal for performance testing, real-world user experience, and testing device-specific features.
 Requires access to the physical device and sometimes additional setup.
 
+# APK
+Android APK Download Link
+![DogFinder APK](https://github.com/Atuoha/dog_finder/apk/dog_finder.apk)
 
 # Media
+Images
+![DogFinder Images](https://imgur.com/a/mqzL68a)
 
-![DogFinder](https://imgur.com/a/mqzL68a)
+Screenshots
+![DogFinder Images](https://github.com/Atuoha/dog_finder/screenshots)
+
+Video Clip
+![DogFinder Video Clip](https://clipchamp.com/watch/GvA2HteZrHB)
+
+
+
