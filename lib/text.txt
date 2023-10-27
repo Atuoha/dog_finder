@@ -1,0 +1,11 @@
+Task:
+
+Random image by breed : https://dog.ceo/api/breed/--BREED--/random
+Images list by breed  : https://dog.ceo/api/breed/--BREED--/images
+Random image by breed and sub breed : https://dog.ceo/api/breed/--BREED--/--SUB BREED--/images/random
+Images list by breed and sub breed : https://dog.ceo/api/breed/--BREED--/--SUB BREED--/images
+
+
+breed list : https://dog.ceo/api/breeds/list/all
+
+
