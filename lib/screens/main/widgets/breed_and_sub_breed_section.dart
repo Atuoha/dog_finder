@@ -18,7 +18,8 @@ class BreedAndSubBreedSection extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 54.h,
+      padding: const EdgeInsets.symmetric(vertical: 5),
+      height: 60.h,
       width: double.infinity,
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(10),
