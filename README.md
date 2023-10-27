@@ -6,7 +6,8 @@
 
 A flutter project to implement the following, Random image by breed, Images list by breed, Random image by breed and sub breed, Images list by breed and sub breed
 
-Testing a Flutter App on iOS and Android
+# Testing
+Testing this Flutter App on iOS and Android
 This guide will walk you through the process of testing a Flutter app on both iOS and Android platforms. You can use popular IDEs like Visual Studio Code, Android Studio, or Xcode for this purpose. Additionally, we'll cover testing on both emulators and physical devices.
 
 Prerequisites
