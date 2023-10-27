@@ -22,7 +22,7 @@ class SearchSection extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
       children: [
         SizedBox(
-          width: size.width / 1.29,
+          width: size.width / 1.30,
           child: TextField(
             controller: searchController,
             decoration: const InputDecoration(
