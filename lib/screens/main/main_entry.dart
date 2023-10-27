@@ -1,5 +1,4 @@
 import 'package:convex_bottom_bar/convex_bottom_bar.dart';
-import 'package:dog_finder/repositories/entry_service_repo.dart';
 import 'package:flutter/services.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import '../../constants/app_colors.dart';
@@ -21,7 +20,6 @@ class MainEntryScreen extends StatefulWidget {
 }
 
 class _MainEntryScreenState extends State<MainEntryScreen> {
-  late EntryServiceRepo entryServiceRepo;
 
   var _pageIndex = 0;
   final List<Widget> _pages = const [
@@ -39,14 +37,6 @@ class _MainEntryScreenState extends State<MainEntryScreen> {
   }
 
 
-  @override
-  void initState() {
-    super.initState();
-    entryServiceRepo = EntryServiceRepo(context: context);
-    entryServiceRepo.init();
-
-
-  }
 
   @override
   void didChangeDependencies() {

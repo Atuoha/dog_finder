@@ -15,6 +15,7 @@ import '../../constants/app_colors.dart';
 import '../../constants/enums/status.dart';
 import '../../controllers/carousel_slider/carousel_slider_cubit.dart';
 import '../../gen/assets.gen.dart';
+import '../../repositories/entry_service_repo.dart';
 import 'components/drawer.dart';
 import 'components/search_section.dart';
 
@@ -27,6 +28,8 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
   TextEditingController searchController = TextEditingController();
+  late EntryServiceRepo entryServiceRepo;
+
 
   void setFilter() {
     // Todo set filter
@@ -52,9 +55,12 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
+
   @override
   void initState() {
     super.initState();
+    entryServiceRepo = EntryServiceRepo(context: context);
+    entryServiceRepo.init();
   }
 
   @override
