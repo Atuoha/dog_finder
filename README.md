@@ -39,16 +39,6 @@ Select Your Target Device: In the Xcode project, choose a connected iOS device o
 
 Run Your App: Click the "Play" button (or press Cmd + R) to launch your app on the selected iOS device or simulator.
 
-Testing on Emulator vs. Physical Device
-Emulator:
-Emulators are software-based and allow you to simulate a real device.
-Ideal for initial testing, especially when you don't have access to physical devices.
-Can be slower than physical devices, and some hardware-specific features may not work accurately.
-
-Physical Device:
-Testing on a real device provides the most accurate results.
-Ideal for performance testing, real-world user experience, and testing device-specific features.
-Requires access to the physical device and sometimes additional setup.
 
 # APK
 Android APK Download Link
