@@ -40,6 +40,9 @@ Select Your Target Device: In the Xcode project, choose a connected iOS device o
 
 Run Your App: Click the "Play" button (or press Cmd + R) to launch your app on the selected iOS device or simulator.
 
+
+
+
 # APK
 Android APK Download Link
 https://atuoha.github.io/project-assets.github.io/
